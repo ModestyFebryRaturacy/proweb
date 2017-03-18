@@ -1,0 +1,45 @@
+<html>
+<head>
+<tittle>Tugas Pemrograman Berbasis Web
+    </tittle>
+<table align="center">
+    <tr>
+    <td align="left">
+    <td rowspan="5" width="100%">
+    <img src="https://d1kq8upx063xc.cloudfront.net/images/practice/0001001000/0001000307/klinik-dokterkulitku.300x225.jpg" width="203" height="134"></td>
+    <td align="right">
+    <td rowspan="5" width="100%">
+    <right><font face="Ariel" size="15" font color="247" bgcolor="white">Dokterkulitku</font></th>
+    <righ><font><h4><I>Klinik DokterKulitku Balikpapan</h4></I>
+   </table>
+  <hr/>
+   <center><img src="http://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/15876323_161674837650168_5869688824258363392_n.jpg?ig_cache_key=MTQxOTM2NjA5NTE4OTQ2MTI1Ng%3D%3D.2" width="480" height="300"></center>
+   <br>
+   <left><font face="Comic Sans MS"font color="247" /font><h3><b>Pelayanan Klinik DokterKulitku Balikpapan</h3></b>
+   <table align="center">
+    <tr>
+    <td align="left">
+        <td rowspan="5" width="100%">
+        <img src="http://www.dokterkulitku.com/wp-content/uploads/2016/01/xematrix.jpg.pagespeed.ic.GNjQHVHJUs.jpg" width="203" height ="134"></td>
+    <td align="center">
+        <td rowspan="5" width="100%">
+        <img src="http://www.dokterkulitku.com/wp-content/uploads/2014/09/kationnai2k.jpg" width="203" height ="134"></td>
+    <td align="right">
+        <td rowspan="5" width="100%">
+        <img src="http://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/c0.3.818.818/12256792_427267277480911_595195558_n.jpg?ig_cache_key=MTEyMDg4NTU3MDY4ODQyMjQyMw%3D%3D.2.c" width="203" height ="134"></td>
+    </table>
+    <table align="center">
+    <tr>
+    <td align="left">
+        <td rowspan="5" width="30%">
+        <left><font face="Ariel" size="5" font color="247" bgcolor="white">Treatment</font></th>
+        <left><font><h6><I>Terdapat beberapa treatment yang dapat dilakukan pasien seperti Peeling, Facial, eMatrix V.3, Laser Diode dan sebagainya</h6></I>
+    <td align="center">
+        <td rowspan="5" width="30%">
+        <center><font face="Ariel" size="5" font color="247" bgcolor="white">Kation</font></th>
+        <center><font><h6><I>Kation merupakan suntik pemutih dengan angka keberhasilan tinggi dan bertahan lama </h6></I>
+    <td align="right">
+        <td rowspan="5" width="30%">
+        <right><font face="Ariel" size="5" font color="247" bgcolor="white">Cream Perawatan</font></th>
+        <right><font><h6><I>Cream perawatan yang sesuai dengan kebutuhan kulit anda akan anda dapatkan setelah melakukan konsultasi dengan dokter</h6></I>
+    </table>
